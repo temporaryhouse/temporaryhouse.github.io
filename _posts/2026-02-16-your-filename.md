@@ -1,9 +1,4 @@
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-Alembic에 대해  
-Alembic은 Jekyll 프로젝트의 시작점입니다. 처음부터 만들지 않고, 이 보일러플레이트를 설치하고 구성하며 약간 수정한 후 바로 배포할 수 있도록 설계되었습니다. 포크하세요. 커피 한 잔 사주세요 ☕️ 트윗하세요. Alembic 설치 ⚗️  
 
 ![IMG_0089.jpeg]({{site.baseurl}}/_posts/IMG_0089.jpeg)
 
